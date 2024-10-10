@@ -6,9 +6,9 @@ https://youtu.be/40qaOXA7xOk
 ### 1.Installation
 Clone the repository:
 ```bash
-pip install -r requirements.txt
 git clone https://github.com/HenryKong112/EXCEL-CSV-MERGER.git
 cd EXCEL-CSV-MERGER
+pip install -r requirements.txt
 ```
 ### 2.Enter the file type you want to merge
 
